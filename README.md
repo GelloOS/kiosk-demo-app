@@ -1,4 +1,4 @@
-# FydeOS Kiosk Mode Test App
+# Gello OS Kiosk Mode Test App
 
 ## Related Chrome flags 
 
@@ -21,4 +21,4 @@ Location: `/usr/local/share/kiosk_app/config.json`
 ```
 AppId: chrome extension (web app) id \
 AppPath: relative path to the path of config file. \
-Enable: switch between google demo and fyde demo. 
+Enable: switch between google demo and gello demo. 
